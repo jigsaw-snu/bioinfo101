@@ -11,6 +11,8 @@
 	- Data Preprocessing
 - Train Model
 	- Construct CNN-based ML Model
+
+	(sample schematic of CNN architecture)
 	![sample_schematic_CNN](./assets/CNN_architecture_sample.png)
 
 - Additional Aanlysis

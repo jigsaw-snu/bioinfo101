@@ -6,8 +6,8 @@
 
 ### Working Process
 - Prepare Dataset
-	- Dataset Gathering from GEO
-		- GSE37114 (HITS-CLIP data)
+	- Gather Data from SRA
+		- SRP012118 (HITS-CLIP data)
 	- Data Preprocessing
 - Train Model
 	- Construct CNN-based ML Model

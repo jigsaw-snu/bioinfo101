@@ -13,7 +13,8 @@
 	- Construct CNN-based ML Model
 
 	(sample schematic of CNN architecture)
-	![sample_schematic_CNN](./assets/CNN_architecture_sample.png)
+	![sample_schematic_CNN](./assets/Conv-Schematic.png)
+	![sample_schematic_CNN](./assets/1DConv-Schematic.png)
 
 - Additional Aanlysis
 

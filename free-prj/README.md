@@ -6,11 +6,17 @@
 
 ### Working Process
 - Prepare Dataset
+	- Gather Training/Test Dataset
+		- https://github.com/mstrazar/iONMF (CLIP-seq data with Class Label) _(DONE)_
 	- Gather Data from SRA
-		- SRP012118 (HITS-CLIP data)
+		- SRP012118 (HITS-CLIP data) _(DONE)_
 	- Data Preprocessing
+		- Convert public dataset into pandas dataframe (WORKING ON)
 - Train Model
 	- Construct CNN-based ML Model
+		- 1DConv model (WORKING ON)
+
+- Predict Binding Motif of LIN28
 
 	(sample schematic of CNN architecture)
 	![sample_schematic_CNN](./assets/Conv-Schematic.png)

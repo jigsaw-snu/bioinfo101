@@ -8,3 +8,6 @@ free-prj/data/series
 
 # Guidelines
 CoLab_TermProj_2022*
+
+# cached files
+free-prj/codes/__pycache__
